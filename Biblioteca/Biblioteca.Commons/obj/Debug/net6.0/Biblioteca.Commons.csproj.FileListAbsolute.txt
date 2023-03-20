@@ -1,0 +1,12 @@
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\bin\Debug\net6.0\Biblioteca.Commons.deps.json
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\bin\Debug\net6.0\Biblioteca.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\bin\Debug\net6.0\Biblioteca.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.csproj.AssemblyReference.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.AssemblyInfoInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.AssemblyInfo.cs
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.csproj.CoreCompileInputs.cache
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\refint\Biblioteca.Commons.dll
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\Biblioteca.Commons.pdb
+C:\Users\rvt_r\Documents\Visual Studio 2022\PruebaBrowserTravel\Biblioteca\Biblioteca.Commons\obj\Debug\net6.0\ref\Biblioteca.Commons.dll
